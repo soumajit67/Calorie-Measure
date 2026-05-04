@@ -1,6 +1,5 @@
 Project Description: NutriScan – Smart Calorie Measurement Website
 
-
 NutriScan is a web-based calorie measurement platform that helps users track food intake, understand nutritional value, and reach health goals without the guesswork. The core idea is simple: take the friction out of calorie counting by combining food recognition, manual logging, and personalized analytics into one fast, privacy-respecting dashboard.
 
 
